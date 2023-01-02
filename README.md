@@ -5,7 +5,7 @@ Hi 👋 My name is Lucas Alves da Silva
 Full Stack Software Developer
 -----------------------------
 
-I'm a 21 years old developer. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
+I'm a 21 year old developer. I love coding and figuring out how to solve deep problems using cutting-edge technology. My main focus is front-end and back-end development, making applications that impact users' lives.
 
 * 🌍  I'm based in São Paulo, Brazil
 * ✉️  You can contact me at [web4dev.lucas@outlook.com](mailto:web4dev.lucas@outlook.com)
