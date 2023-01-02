@@ -12,8 +12,14 @@ I'm a 21 years old developer. I love to code and figure it out how to solve deep
 * 🧠  I'm learning Advanced Ruby, JavaScript, TypeScript, PHP, Unit Tests
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 
-<!--<a href="https://www.github.com/silva4dev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/silva4dev?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>-->
+
+### Socials
+
+<p align="left">
+<a href="https://www.linkedin.com/in/lalves02" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="mailto:web4dev.lucas@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+</p>
+
 
 ### Skills
 
@@ -39,17 +45,6 @@ src="https://img.shields.io/github/followers/silva4dev?logo=github&style=for-the
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" width="45" height="45" alt="PostgreSQL" /></a>
 <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="45" height="45" alt="Docker" /></a>
 </p>
-
-
-### Socials
-
-<p align="left">
-<a href="https://www.linkedin.com/in/lalves02" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="mailto:web4dev.lucas@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-</p>
-
-
-### My GitHub Stats
 
 <div align="center">
 <a href="https://github.com/silva4dev">
