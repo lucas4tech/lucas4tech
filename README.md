@@ -13,14 +13,6 @@ I'm a 21 year old developer. I love coding and figuring out how to solve deep pr
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 
 
-### Socials
-
-<p align="left">
-<a href="https://www.linkedin.com/in/lalves02" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="mailto:web4dev.lucas@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-</p>
-
-
 ### Skills
 
 <p align="left">
@@ -44,6 +36,13 @@ I'm a 21 year old developer. I love coding and figuring out how to solve deep pr
 <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="45" height="45" alt="Git" /></a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" width="45" height="45" alt="PostgreSQL" /></a>
 <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="45" height="45" alt="Docker" /></a>
+</p>
+
+### Socials
+
+<p align="left">
+<a href="https://www.linkedin.com/in/lalves02" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="mailto:web4dev.lucas@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </p>
 
 <!--<div align="center">
