@@ -9,7 +9,6 @@ I'm a 21 year old developer. I love coding and figuring out how to solve deep pr
 
 * 🌍  I'm based in São Paulo, Brazil
 * ✉️  You can contact me at [web.m.lucasalves@outlook.com](mailto:web.m.lucasalves@outlook.com)
-* 🧠  I'm learning Advanced Ruby, JavaScript, TypeScript, PHP, Unit Tests
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 
 
