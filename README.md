@@ -27,7 +27,7 @@ I'm a 21 year old developer. I love coding and figuring out how to solve deep pr
 <!-- <a href="https://laravel.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" width="45" height="45" alt="Laravel" /></a> -->
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" width="45" height="45" alt="Node.js" /></a>
 <a href="https://nestjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NestJS-Dark.svg" width="45" height="45" alt="Nest.js" /></a>
-<a href="https://deno.land" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DENO-Dark.svg" width="45" height="45" alt="Deno.js" /></a>
+<!-- <a href="https://deno.land" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DENO-Dark.svg" width="45" height="45" alt="Deno.js" /></a> -->
 <a href="https://vuejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VueJS-Dark.svg" width="45" height="45" alt="Vue.js" /></a>
 <a href="https://reactjs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="45" height="45" alt="React.js" /></a>
 <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Angular-Dark.svg" width="45" height="45" alt="Angular" /></a>
