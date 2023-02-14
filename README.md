@@ -24,7 +24,7 @@ I'm a 21 year old developer. I love coding and figuring out how to solve deep pr
 <!-- <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" width="45" height="45" alt="PHP" /></a>
  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="45" height="45" alt="Python" /></a> -->
 <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rails.svg" width="45" height="45" alt="Ruby on Rails" /></a>
-<a href="https://laravel.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" width="45" height="45" alt="Laravel" /></a>
+<!-- <a href="https://laravel.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" width="45" height="45" alt="Laravel" /></a> -->
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" width="45" height="45" alt="Node.js" /></a>
 <a href="https://nestjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NestJS-Dark.svg" width="45" height="45" alt="Nest.js" /></a>
 <a href="https://deno.land" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DENO-Dark.svg" width="45" height="45" alt="Deno.js" /></a>
