@@ -10,7 +10,7 @@ I love coding and figuring out how to solve deep problems using cutting-edge tec
 * 🌍  I'm based in São Paulo, Brazil
 * ✉️  You can contact me at [web.m.lucasalves@outlook.com](mailto:web.m.lucasalves@outlook.com)
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
-* 💬  Ask me about JavaScript, HTML, CSS, SQL, TypeScript, Ruby
+* 💬  Ask me about HTML, CSS, JavaScript, TypeScript, Ruby
 
 ### Socials
 
