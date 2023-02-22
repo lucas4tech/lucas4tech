@@ -10,31 +10,7 @@ I love coding and figuring out how to solve deep problems using cutting-edge tec
 * 🌍  I'm based in São Paulo, Brazil
 * ✉️  You can contact me at [web.m.lucasalves@outlook.com](mailto:web.m.lucasalves@outlook.com)
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
-
-### Skills
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="45" height="45" alt="HTML5" /></a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="45" height="45" alt="CSS3" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="45" height="45" alt="Javascript" /></a>
-<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" width="45" height="45" alt="TypeScript" /></a> 
-<a href="https://www.ruby-lang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Ruby.svg" width="45" height="45" alt="Ruby" /></a>
-<a href="https://jquery.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JQuery.svg" width="45" height="45" alt="jQuery" /></a>
-<!-- <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" width="45" height="45" alt="PHP" /></a>
- <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="45" height="45" alt="Python" /></a> -->
-<a href="https://rubyonrails.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rails.svg" width="45" height="45" alt="Ruby on Rails" /></a>
-<!-- <a href="https://laravel.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" width="45" height="45" alt="Laravel" /></a> -->
-<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" width="45" height="45" alt="Node.js" /></a>
-<a href="https://nestjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NestJS-Dark.svg" width="45" height="45" alt="Nest.js" /></a>
-<!-- <a href="https://deno.land" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DENO-Dark.svg" width="45" height="45" alt="Deno.js" /></a> -->
-<a href="https://vuejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VueJS-Dark.svg" width="45" height="45" alt="Vue.js" /></a>
-<a href="https://reactjs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="45" height="45" alt="React.js" /></a>
-<a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Angular-Dark.svg" width="45" height="45" alt="Angular" /></a>
-<a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" width="45" height="45" alt="TailwindCSS" /></a>
-<a href="https://webpack.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Webpack-Dark.svg" width="45" height="45" alt="Webpack" /></a>
-<a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="45" height="45" alt="Git" /></a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" width="45" height="45" alt="PostgreSQL" /></a>
-<a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="45" height="45" alt="Docker" /></a>
-</p>
+* 💬  Ask me about JavaScript, HTML, CSS, SQL, TypeScript, Ruby
 
 ### Socials
 
