@@ -11,7 +11,7 @@ I love coding and figuring out how to solve deep problems using cutting-edge tec
 * ✉️  You can contact me at [web.m.lucasalves@outlook.com](mailto:web.m.lucasalves@outlook.com)
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 
-<!--
+<!-- 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="45" height="45" alt="HTML5" /></a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="45" height="45" alt="CSS3" /></a>
@@ -34,8 +34,8 @@ I love coding and figuring out how to solve deep problems using cutting-edge tec
 <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="45" height="45" alt="Git" /></a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" width="45" height="45" alt="PostgreSQL" /></a>
 <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="45" height="45" alt="Docker" /></a>
-</p>
--->
+</p> -->
+
 ### Socials
 
 <p align="left">
