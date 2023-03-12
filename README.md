@@ -21,7 +21,7 @@ I love coding and figuring out how to solve deep problems using cutting-edge tec
 
 <div align="left">
 <a href="https://github.com/silva4dev">
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=silva4dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<!--<img height="200em" src="https://github-readme-stats.vercel.app/api?username=silva4dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>-->
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silva4dev&layout=compact&langs_count=7&theme=dracula"/>
 </div
 
