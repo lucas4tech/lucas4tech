@@ -18,9 +18,9 @@ I love coding and figuring out how to solve deep problems using cutting-edge tec
 <a href="mailto:web4dev.lucas@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </p>
 
-<!--<div align="left">
+<div align="left">
 <a href="https://github.com/silva4dev">
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=silva4dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silva4dev&layout=compact&langs_count=7&theme=dracula"/>
-</div-->
+</div>
 
