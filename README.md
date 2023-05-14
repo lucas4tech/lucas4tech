@@ -10,7 +10,7 @@ I love coding and figuring out how to solve deep problems using cutting-edge tec
 * 🌍  I'm based in São Paulo, Brazil
 * ✉️  You can contact me at [web.m.lucasalves@outlook.com](mailto:web.m.lucasalves@outlook.com)
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
-
+<!--
 ### Socials
 
 <p align="left">
@@ -46,3 +46,4 @@ I love coding and figuring out how to solve deep problems using cutting-edge tec
   
 <p align="center">  <a href="https://www.buymeacoffee.com/silva4dev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a></p>
   
+-->
