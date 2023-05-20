@@ -1,49 +1,50 @@
+<h1 align="left">Hi 👋 My name is Lucas Alves da Silva</h1>
 
-Hi 👋 My name is Lucas Alves da Silva
-==========================
+###
 
-Full Stack Software Developer
------------------------------
+<p align="left">I love coding and figuring out how to solve deep problems using cutting-edge technology. My main focus is front-end and back-end development, making applications that impact users' lives.</p>
 
-I love coding and figuring out how to solve deep problems using cutting-edge technology. My main focus is front-end and back-end development, making applications that impact users' lives.
+###
 
-* 🌍  I'm based in São Paulo, Brazil
-* ✉️  You can contact me at [web.m.lucasalves@outlook.com](mailto:web.m.lucasalves@outlook.com)
-* 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
-<!--
-### Socials
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">🌍  I'm based in São Paulo, Brazil<br>✉️ You can contact me at [web.m.lucasalves@outlook.com](mailto:web.m.lucasalves@outlook.com)<br>🧑 My personal portfolio: https://silva4dev.github.io<br>🤝  I'm open to collaborating on projects that have a high impact in peoples lives<br>⚡ In my spare time, I solve problems and read tech articles.<br>📚 I'm currently learning: Elixir</p>
+
+###
+
+###
+
+<h2 align="left">Socials</h2>
+
+###
 
 <p align="left">
 <a href="https://www.linkedin.com/in/lalves02" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="mailto:web4dev.lucas@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </p>
 
-### Summary Of My Github Status
+###
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=silva4dev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<h2 align="left">I code with</h2>
 
-<table align="center" border="1">
-<tr align="center">
-<td colspan="2">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=silva4dev&theme=tokyonight&show_icons=true" />
- </td>
- <td colspan="2">
-  <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=silva4dev&theme=github_dark" />
- </td>
-</tr>
-<tr align="center">
-<td colspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silva4dev&theme=tokyonight&show_icons=true" /></td>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=silva4dev&theme=github_dark" /></td>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=silva4dev&theme=github_dark"/></td>
-</tr>
-<tr align="center">
-  <td colspan="4"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=silva4dev&theme=github_dark"/></td>
-</tr>
-<tr align="center">
-  <td colspan="4"><img src="https://github-readme-streak-stats.herokuapp.com/?user=silva4dev&" alt="silva4dev" /></td>
-</tr>
-</table>
-  
-<p align="center">  <a href="https://www.buymeacoffee.com/silva4dev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a></p>
-  
--->
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" width="52" alt="ruby logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="40" width="52" alt="elixir logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="40" width="52" alt="rails logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" height="40" width="52" alt="phoenix logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" width="52" alt="nestjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" width="52" alt="graphql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
+</div>
