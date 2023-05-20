@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌍  I'm based in São Paulo, Brazil<br>✉️ You can contact me at [web.m.lucasalves@outlook.com](mailto:web.m.lucasalves@outlook.com)<br>🧑 My personal portfolio: https://silva4dev.github.io<br>🤝  I'm open to collaborating on projects that have a high impact in peoples lives<br>⚡ In my spare time, I solve problems and read tech articles.<br>📚 I'm currently learning: Elixir</p>
+<p align="left">🌍  I'm based in São Paulo, Brazil<br>✉️ You can contact me at [web.m.lucasalves@outlook.com](mailto:web.m.lucasalves@outlook.com)<br>🤝  I'm open to collaborating on projects that have a high impact in peoples lives<br>⚡ In my spare time, I solve problems and read tech articles.<br>📚 I'm currently learning: Elixir<br>👨‍💻 More at: https://silva4dev.github.io<br></p>
 
 ###
 
