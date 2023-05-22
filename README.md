@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌍  I'm based in São Paulo, Brazil<br>✉️ You can contact me at [web.m.lucasalves@outlook.com](mailto:web.m.lucasalves@outlook.com)<br>🤝  I'm open to collaborating on projects that have a high impact in peoples lives<br>⚡ In my spare time, I solve problems and read tech articles.<br>📚 I'm currently learning: Elixir<br>👨‍💻 More at: https://silva4dev.github.io<br></p>
+<p align="left">🌍  I'm based in São Paulo, Brazil<br>✉️ You can contact me at [web.m.lucasalves@outlook.com](mailto:web.m.lucasalves@outlook.com)<br>🤝  I'm open to collaborating on projects that have a high impact in peoples lives<br>⚡ In my spare time, I solve problems and read tech articles.<br>👨‍💻 More at: https://silva4dev.github.io<br></p>
 
 ###
 
@@ -35,9 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" width="52" alt="ruby logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="40" width="52" alt="elixir logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="40" width="52" alt="rails logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" height="40" width="52" alt="phoenix logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" width="52" alt="nestjs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" width="52" alt="graphql logo"  />
