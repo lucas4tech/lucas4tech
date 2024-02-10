@@ -32,17 +32,17 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" width="52" alt="ruby logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="40" width="52" alt="rails logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" width="52" alt="nestjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" width="52" alt="graphql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" height="42" width="50" alt="javascript logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" height="42" width="50" alt="typescript logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ruby.svg" height="42" width="50" alt="ruby logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rails.svg" height="42" width="50" alt="rails logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" height="42" width="50" alt="nodejs logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg" height="42" width="50" alt="nestjs logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" height="42" width="50" alt="graphql logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" height="42" width="50" alt="react logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" height="42" width="50" alt="nextjs logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" height="42" width="50" alt="git logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" height="42" width="50" alt="docker logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" height="42" width="50" alt="amazonwebservices logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" height="42" width="50" alt="figma logo"  />
 </div>
