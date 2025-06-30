@@ -9,9 +9,9 @@ I'm a Full-Stack Developer with a strong focus on backend development using **Go
 🎉 **Frontend:** React.js, Next.js  
 🧪 **Testing:** TDD, BDD  
 🏗️ **Architecture:** Clean Architecture, SOLID principles, Design Patterns  
-☁️ **Cloud:** AWS, GCP
+☁️ **Cloud:** AWS, GCP  
 📦 **Version control:** Git & GitHub  
 
 ## Contacts  
-📬 Email: web.m.lucasalves@outlook.com
+📬 Email: web.m.lucasalves@outlook.com  
 👤 LinkedIn: https://www.linkedin.com/in/silva4dev
