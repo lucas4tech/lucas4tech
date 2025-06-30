@@ -1,5 +1,3 @@
-# Lucas Alves da Silva — Full-Stack Developer
-
 👨‍💻 **Main Focus:** Backend development with **Go** & **Ruby on Rails**  
 ⚙️ **Frontend Technologies:** **React**, **Next.js**
 🧪 **Quality Focus:** Test-Driven Development (**TDD**) & Behavior-Driven Development (**BDD**)  
@@ -10,4 +8,4 @@
 ---
 
 📫 Let’s connect!  
-[GitHub](https://github.com/silva4dev) | [LinkedIn](https://www.linkedin.com/in/silva4dev) | web.m.lucasalves@outlook.com
+[LinkedIn](https://www.linkedin.com/in/silva4dev) | web.m.lucasalves@outlook.com
