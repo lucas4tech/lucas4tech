@@ -6,10 +6,10 @@ I'm a Full-Stack Developer with a strong focus on backend development using **Go
 ## Current stack  
 ⚡️ **Main languages:** Golang | Ruby  
 📡 **Backend:** Ruby on Rails, Golang  
-🎉 **Frontend:** React, Next.js  
+🎉 **Frontend:** React.js, Next.js  
 🧪 **Testing:** TDD, BDD  
 🏗️ **Architecture:** Clean Architecture, SOLID principles, Design Patterns  
-☁️ **Cloud:** AWS  
+☁️ **Cloud:** AWS, GCP
 📦 **Version control:** Git & GitHub  
 
 ## Contacts  
