@@ -14,4 +14,4 @@ I'm a Full-Stack Developer with a strong focus on backend development using **Go
 
 ## Contacts  
 📬 Email: web.m.lucasalves@outlook.com  
-👤 LinkedIn: https://www.linkedin.com/in/silva4dev
+👤 LinkedIn: https://www.linkedin.com/in/lucas4tech
