@@ -63,7 +63,7 @@ Tracing (OpenTelemetry, Jaeger, Zipkin)
 ---
 
 ### 🧪 Testing
-TDD • BDD • Testify • Rust (cargo test) • Minitest • RSpec
+TDD • BDD • Testify • Rust (cargo test) • Minitest • RSpec • Jest • Vitest
 
 ---
 
